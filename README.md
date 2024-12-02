@@ -37,6 +37,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-00599C?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-    <br>
+   <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=flat-square&logo=Visual Studio Code &logoColor=white"/>
+
+  <br>
 </div><br>
 </div>
