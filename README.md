@@ -21,9 +21,6 @@ Here are some ideas to get you started:
   <img src="https://render.gitanimals.org/farms/Leeyoonji23"/>
 </a>
 
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeyoonji23&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/Leeyoonji23/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeyoonji23&layout=compact)
 
 <br>
